@@ -1,0 +1,1 @@
+# MacOS-TouchBar-Sprite-Animation
